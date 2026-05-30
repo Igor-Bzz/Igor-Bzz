@@ -62,16 +62,6 @@ Busco minha **primeira oportunidade na área de Tecnologia (Estágio ou Júnior)
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-Bzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Bzz&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-<br>
-
----
-
 ## 📞 Vamos construir algo juntos?
 
 Estou pronto para o meu primeiro grande desafio em tecnologia. Se a sua equipe busca um talento júnior com base acadêmica sólida, fome de aprendizado e excelente comunicação interpessoal, adoraria tomar um café (virtual ou presencial) com você!
