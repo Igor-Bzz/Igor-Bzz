@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Igor+Barrabazza+👋;Estudante+de+Sistemas+de+Informação;Futuro+Desenvolvedor+Júnior+%2F+Suporte" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Ola,+sou+o+Igor+Barrabazza;Estudante+de+Sistemas+de+Informacao;Futuro+Desenvolvedor+Junior" alt="Typing SVG" />
   
   <p align="center">
     <strong>Transformando lógica, matemática e adaptabilidade em soluções eficientes de software.</strong>
@@ -39,42 +39,4 @@ Busco minha **primeira oportunidade na área de Tecnologia (Estágio ou Júnior)
 - 🔗 [Ver Repositório](#)
 
 ### 🃏 Super Trunfo Engine: Algoritmos e Estrutura de Dados
-- **O Desafio:** Desenvolver o motor de um jogo "Super Trunfo" (Single ou Dual Player) focado em indexação posicional de dados, sendo estritamente proibido o uso de Programação Orientada a Objetos ou Dicionários.
-- **O Impacto:** Resolução de problemas complexos de estado de jogo (distribuição, comparação de atributos, controle de empate e montes de descarte) utilizando exclusivamente a manipulação avançada de listas aninhadas (matrizes) e lógica pura.
-- **Tecnologias:** `Python` (random, manipulação de matrizes).
-- 🔗 [Ver Repositório](#)
-
----
-
-## 🧠 Cultura de Engenharia e Soft Skills
-
-- **Adaptabilidade e Fast Learner:** Capacidade de absorver novos processos técnicos rapidamente, operando fora da zona de conforto.
-- **Trabalho em Equipe e Colaboração:** Foco no objetivo coletivo, compreendendo que o software de qualidade é feito a muitas mãos.
-- **Comunicação Clara e Assertiva:** Facilidade para traduzir problemas técnicos para linguagem de negócio e alinhar expectativas com transparência.
-
----
-
-## 🎓 Educação e Validação
-
-- 🎓 **Bacharelado em Sistemas de Informação** - Universidade Presbiteriana Mackenzie (2026 - 2029)
-- 📜 **Python Essentials 1-2** - Cisco Networking Academy / OpenEDG Python Institute
-- 📜 **Introduction to Cybersecurity & IoT** - Cisco Networking Academy
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorbarrabazza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbarrabazza&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-<br>
-
----
-
-## 📞 Vamos construir algo juntos?
-
-Estou pronto para o meu primeiro grande desafio em tecnologia. Se a sua equipe busca um talento júnior com base acadêmica sólida, fome de aprendizado e excelente comunicação interpessoal, adoraria tomar um café (virtual ou presencial) com você!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-barrabazza-ba50ab3b8/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorbarrabazza@gmail.com)
+- **O Desafio:** Desenvolver o motor de um jogo "Super Trunfo" (Single ou Dual Player) focado em indexação posicional de dados, sendo estritamente proibido o
