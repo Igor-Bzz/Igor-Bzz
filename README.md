@@ -42,7 +42,7 @@ Busco minha **primeira oportunidade na área de Tecnologia (Estágio ou Júnior)
 - **O Desafio:** Desenvolver o motor de um jogo "Super Trunfo" (Single ou Dual Player) focado em indexação posicional de dados, sendo estritamente proibido o uso de Programação Orientada a Objetos ou Dicionários.
 - **O Impacto:** Resolução de problemas complexos de estado de jogo (distribuição, comparação de atributos, controle de empate e montes de descarte) utilizando exclusivamente a manipulação avançada de listas aninhadas (matrizes) e lógica pura.
 - **Tecnologias:** `Python` (random, manipulação de matrizes).
-- 🔗 [Ver Repositório](#)
+- 🔗 [Ver Repositório](https://github.com/Igor-Bzz/SuperTrunfo)
 
 ---
 
