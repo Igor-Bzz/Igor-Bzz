@@ -36,7 +36,7 @@ Busco minha **primeira oportunidade na área de Tecnologia (Estágio ou Júnior)
 - **O Desafio:** Construir um motor matemático e analítico robusto para simular e comparar modalidades de investimento (CDB, LCI/LCA, Poupança, FII) aplicando juros compostos e regras tributárias reais. O sistema precisava operar exclusivamente via expressões matemáticas e bibliotecas nativas, sem laços de repetição.
 - **O Impacto:** Desenvolvimento de uma lógica condicional forte que gera um relatório profissional com análise estatística de risco de mercado e gráficos textuais dinâmicos em escala proporcional.
 - **Tecnologias:** `Python` (math, random, datetime, statistics, locale).
-- 🔗 [Ver Repositório](#)
+- 🔗 [Ver Repositório](https://github.com/Igor-Bzz/PyInvest)
 
 ### 🃏 Super Trunfo Engine: Algoritmos e Estrutura de Dados
 - **O Desafio:** Desenvolver o motor de um jogo "Super Trunfo" (Single ou Dual Player) focado em indexação posicional de dados, sendo estritamente proibido o uso de Programação Orientada a Objetos ou Dicionários.
